@@ -23,7 +23,6 @@
     ],
     "require": {
         "php": "^8.3",
-        "illuminate/support": "^6.0 || ^7.0 || ^8.0",
         "mvdnbrk/myparcel-php-api": "dev-main"
     },
     "require-dev": {
