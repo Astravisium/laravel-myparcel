@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-        "php": "^8.3",
+        "php": "^8.1",
         "mvdnbrk/myparcel-php-api": "dev-main"
     },
     "require-dev": {
