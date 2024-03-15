@@ -6,12 +6,6 @@
         "myparcel",
         "api"
     ],
-    "repositories": {
-        "mvdnbrk/myparcel-php-api": {
-            "type": "vcs",
-            "url": "https://github.com/Astravisium/myparcel-php-api.git"
-        }
-    },
     "homepage": "https://github.com/mvdnbrk/laravel-myparcel",
     "license": "MIT",
     "authors": [
@@ -22,8 +16,7 @@
         }
     ],
     "require": {
-        "php": "^8.1",
-        "mvdnbrk/myparcel-php-api": "dev-main"
+        "php": "^8.1"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0 || ^5.0 || ^6.0",
