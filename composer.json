@@ -22,8 +22,7 @@
         }
     ],
     "require": {
-        "php": "^8.1",
-        "mvdnbrk/myparcel-php-api": "dev-main"
+        "php": "^8.1"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0 || ^5.0 || ^6.0",
