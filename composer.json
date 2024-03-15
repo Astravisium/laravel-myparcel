@@ -57,7 +57,7 @@
             "Mvdnbrk\\Laravel\\Tests\\": "tests"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-main",
     "prefer-stable": true,
     "scripts": {
         "test": "vendor/bin/phpunit"
